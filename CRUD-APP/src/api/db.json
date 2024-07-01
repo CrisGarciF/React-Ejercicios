@@ -1,0 +1,39 @@
+{
+  "personajes": [
+    {
+      "id": 1,
+      "name": "Dragon",
+      "status": "Vivo"
+    },
+    {
+      "id": 2,
+      "name": "Roger",
+      "status": "Muerto"
+    },
+    {
+      "id": 3,
+      "name": "Zoro",
+      "status": "Vivo"
+    },
+    {
+      "id": 4,
+      "name": "Rocks",
+      "status": "N/A"
+    },
+    {
+      "id": 5,
+      "name": "Garp",
+      "status": "Vivo"
+    },
+    {
+      "name": "Sanji",
+      "status": "Vivo",
+      "id": 1701871150930
+    },
+    {
+      "name": "Nami",
+      "status": "Vivo",
+      "id": 1701873126454
+    }
+  ]
+}
