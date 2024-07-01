@@ -11,7 +11,6 @@ Ejercicios React sobre manejo de componetes, estados, props, validaciones, hooks
 
 -modal window: Prop children de los componentes✔️.
 
-
 -Subscriptions Tracker: ventas de plataformas de streaming📺.
 
 -Cotizador : Valor a Pagar por prestamo solicitado🏦.
