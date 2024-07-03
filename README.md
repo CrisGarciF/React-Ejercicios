@@ -24,3 +24,13 @@ Ejercicios React sobre manejo de componetes, estados, props, validaciones, hooks
 -Clone pinteres: con la APi de Unsplash Y la Libreria MUI.
 
 -Todo List: Lista de tareas basica.
+
+#Ecommerce usando:
+
+-useContext
+
+-useReducer
+
+-useId
+
+-entre otros hooks
