@@ -1,0 +1,32 @@
+.card {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.cardCharters {
+    list-style: none;
+    font-size: 1rem;
+    text-align: center;
+    margin: 1rem;
+    border: 1px solid #fff;
+    box-shadow: 5px 5px #fff;
+}
+
+.cardCharters:hover {
+    opacity: 0.5;
+    box-shadow: 5px 5px #ff0000;
+}
+
+.characterImg{
+    border-radius: 10px;
+    width: 230px;
+    height: 345px;
+}
+
+@media (max-width: 560px) {
+    .card {
+        grid-template-columns: 100%;
+    }
+}

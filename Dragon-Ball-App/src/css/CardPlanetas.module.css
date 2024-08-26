@@ -1,0 +1,32 @@
+.card {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.cardPlanetas {
+    list-style: none;
+    font-size: 1rem;
+    text-align: center;
+    margin: 1rem;
+    border: 1px solid #fff;
+    box-shadow: 5px 5px #fff;
+}
+
+.cardPlanetas:hover {
+    opacity: 0.6;
+    box-shadow: 5px 5px #38e20d;
+}
+
+.planetaImg{
+    border-radius: 10px;
+    width: 230px;
+    height: 345px;
+}
+
+@media (max-width: 560px) {
+    .card {
+        grid-template-columns: 100%;
+    }
+}
