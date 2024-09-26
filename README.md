@@ -25,7 +25,7 @@ Ejercicios React sobre manejo de componetes, estados, props, validaciones, hooks
 
 -Todo List: Lista de tareas basica.
 
--Dragon Ball App : Uso e implementacion de la api: https://www.dragonball-api.com/api
+-Dragon Ball App : Uso e implementacion de la api: https://www.dragonball-api.com/api.
 
 #Ecommerce usando:
 
@@ -39,4 +39,4 @@ Ejercicios React sobre manejo de componetes, estados, props, validaciones, hooks
 
 # Ejercicios-Practica
 
--Serie de ejercicios para reforzar conocimiento.
+-Serie de ejercicios para reforzar conocimiento y profundizar conceptos.
