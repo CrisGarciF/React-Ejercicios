@@ -31,12 +31,12 @@ Ejercicios React sobre manejo de componetes, estados, props, validaciones, hooks
 
 -useContext
 
--useReducer
+- useReducer
 
--useId
+- useId
 
--entre otros hooks.
+- entre otros hooks.
 
 # Ejercicios-Practica
 
--Serie de ejercicios para reforzar conocimiento y profundizar conceptos.
+- Serie de ejercicios para reforzar conocimiento y profundizar conceptos.
