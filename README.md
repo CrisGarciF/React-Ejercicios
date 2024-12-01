@@ -5,11 +5,11 @@ Ejercicios React sobre manejo de componetes, estados, props, validaciones, hooks
 # Crud app
 - Search songs: es un buscador de canciones apartir de dos api's🎶.
 
- -Selects Anidados: es un filtrador de estados, municipios y colonias de Mexico utilizando la api de API COPOMEX📍🇲🇽.
+- Selects Anidados: es un filtrador de estados, municipios y colonias de Mexico utilizando la api de API COPOMEX📍🇲🇽.
 
--validation form: es un formulario con validacion y envio a un correo electronico de preferencia📩.
+- validation form: es un formulario con validacion y envio a un correo electronico de preferencia📩.
 
--modal window: Prop children de los componentes✔️.
+- modal window: Prop children de los componentes✔️.
 
 -Subscriptions Tracker: ventas de plataformas de streaming📺.
 
