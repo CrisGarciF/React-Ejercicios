@@ -11,9 +11,9 @@ Ejercicios React sobre manejo de componetes, estados, props, validaciones, hooks
 
 - modal window: Prop children de los componentes✔️.
 
--Subscriptions Tracker: ventas de plataformas de streaming📺.
+- Subscriptions Tracker: ventas de plataformas de streaming📺.
 
--Cotizador : Valor a Pagar por prestamo solicitado🏦.
+- Cotizador : Valor a Pagar por prestamo solicitado🏦.
 
 -Gif Expert: Buscador de gifs con la API de (GIPHY DEVELOPERS API)🎁.
 
