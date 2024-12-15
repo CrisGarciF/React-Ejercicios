@@ -21,7 +21,7 @@ Ejercicios React sobre manejo de componetes, estados, props, validaciones, hooks
 
 -Search Emogis: Buscador de Emogis😎.
 
--Clone pinteres: con la APi de Unsplash Y la Libreria MUI.
+- Clone pinteres: con la APi de Unsplash Y la Libreria MUI.
 
 -Todo List: Lista de tareas basica.
 
