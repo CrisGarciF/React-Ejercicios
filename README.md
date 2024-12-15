@@ -17,9 +17,9 @@ Ejercicios React sobre manejo de componetes, estados, props, validaciones, hooks
 
 -Gif Expert: Buscador de gifs con la API de (GIPHY DEVELOPERS API)🎁.
 
--Color-Generator-React: Generador de colores con la libreria Values.js🎨.
+- Color-Generator-React: Generador de colores con la libreria Values.js🎨.
 
--Search Emogis: Buscador de Emogis😎.
+- Search Emogis: Buscador de Emogis😎.
 
 - Clone pinteres: con la APi de Unsplash Y la Libreria MUI.
 
