@@ -15,7 +15,7 @@ Ejercicios React sobre manejo de componetes, estados, props, validaciones, hooks
 
 - Cotizador : Valor a Pagar por prestamo solicitado🏦.
 
--Gif Expert: Buscador de gifs con la API de (GIPHY DEVELOPERS API)🎁.
+- Gif Expert: Buscador de gifs con la API de (GIPHY DEVELOPERS API)🎁.
 
 - Color-Generator-React: Generador de colores con la libreria Values.js🎨.
 
