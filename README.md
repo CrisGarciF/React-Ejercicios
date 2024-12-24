@@ -23,9 +23,9 @@ Ejercicios React sobre manejo de componetes, estados, props, validaciones, hooks
 
 - Clone pinteres: con la APi de Unsplash Y la Libreria MUI.
 
--Todo List: Lista de tareas basica.
+- Todo List: Lista de tareas basica.
 
--Dragon Ball App : Uso e implementacion de la api: https://www.dragonball-api.com/api.
+- Dragon Ball App : Uso e implementacion de la api: https://www.dragonball-api.com/api.
 
 #Ecommerce usando:
 
