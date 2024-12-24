@@ -27,7 +27,7 @@ Ejercicios React sobre manejo de componetes, estados, props, validaciones, hooks
 
 - Dragon Ball App : Uso e implementacion de la api: https://www.dragonball-api.com/api.
 
-#Ecommerce usando:
+# Ecommerce usando:
 
 -useContext
 
