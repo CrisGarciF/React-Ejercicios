@@ -29,7 +29,7 @@ Ejercicios React sobre manejo de componetes, estados, props, validaciones, hooks
 
 # Ecommerce usando:
 
--useContext
+- useContext
 
 - useReducer
 
