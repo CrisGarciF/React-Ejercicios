@@ -29,14 +29,14 @@ Ejercicios React sobre manejo de componetes, estados, props, validaciones, hooks
 
 # Ecommerce usando:
 
-- useContext
+- useContext.
 
-- useReducer
+- useReducer.
 
-- useId
+- useId.
 
 - entre otros hooks.
 
-# Ejercicios-Practica
+# Ejercicios-Practica:
 
 - Serie de ejercicios para reforzar conocimiento y profundizar conceptos.
