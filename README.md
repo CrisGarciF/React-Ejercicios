@@ -41,5 +41,4 @@ Ejercicios React sobre manejo de componetes, estados, props, validaciones, hooks
 
 - Serie de ejercicios para reforzar conocimiento y profundizar conceptos.
 
-
 # Fin...
